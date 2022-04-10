@@ -1,5 +1,5 @@
 # homebase
-A starting point for code work
+A starting point for technical writing and code samples
 
 Realizing that I keep very little of my code work on git at the moment.
 
